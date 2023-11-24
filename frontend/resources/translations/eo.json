@@ -1,0 +1,25 @@
+{
+  "appName": "https://inlang.com/editor/github.com/Krows7/AppFlowy?id=welcomeText",
+  "githubStarText": "e",
+  "subscribeNewsletterText": "Abonu al Informleteron",
+  "letsGoButtonText": "Ekiru",
+  "title": "Titolo",
+  "youCanAlso": "Vi ankaŭ povas",
+  "blockActions": {
+    "addBelowTooltip": "Premu por aldoni sube",
+    "addAboveCmd": "Alt",
+    "addAboveMacCmd": "Option+kliko",
+    "addAboveTooltip": "Aldoni super",
+    "dragTooltip": "Tiru por movi",
+    "openMenuTooltip": "Klaku por malfermi menuon"
+  },
+  "signUp": {
+    "buttonText": "Registriĝi",
+    "title": "Registriĝi al ",
+    "getStartedText": "Ekiri",
+    "emptyPasswordError": "La pasvorto ne povas esti malplena",
+    "repeatPasswordEmptyError": "Repeat password can't be empty",
+    "unmatchedPasswordError": "La ripeta pasvorto ne kongruas kun la ĉefa pasvorto",
+    "alreadyHaveAnAccount": "Ĉu vi jam havas konton?"
+  }
+}
