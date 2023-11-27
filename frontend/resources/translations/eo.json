@@ -42,6 +42,17 @@
     "repeatPasswordEmptyError": "La ripeta pasvorto ne povas esti malplena",
     "unmatchedPasswordError": "La ripeta pasvorto ne kongruas kun la ĉefa pasvorto",
     "syncPromptMessage": "La sinkronigado de la datumoj eble daŭros iomete. Bonvolu ne fermi ĉi tiun paĝon.",
-    "or": "aû"
+    "or": "aû",
+    "LogInWithGoogle": "Eniri per Google",
+    "LogInWithGithub": "Eniri per GitHub",
+    "LogInWithDiscord": "Eniri per Discord ",
+    "signInWith": "Enir"
+  },
+  "workspace": {
+    "chooseWorkspace": "Elektu vian laborlokon",
+    "create": "Krei laborlokon",
+    "reset": "Rekomencigi laborlokon",
+    "resetWorkspacePrompt": "Rekomencigi la laborlokon forigos ĉiujn paĝojn kaj datumojn ene. Ĉu vi certas, ke vi volas rekomencigi la laborlokon? Aŭ vi povas kontakti la subtenan teamon por restaŭri la laborlokon.",
+    "hint": "laborlokon"
   }
 }
