@@ -28,5 +28,20 @@
     "passwordHint": "Pas",
     "repeatPasswordHint": "Ripetu la pasvorton",
     "signUpWith": "Registriĝu per:"
+  },
+  "signIn": {
+    "loginTitle": "Eniri al",
+    "loginButtonText": "En",
+    "loginStartWithAnonymous": "Ekiri kun anonima sesio ",
+    "continueAnonymousUser": "Ekiri kun anonima sesio",
+    "buttonText": "Aŭtentikiĝo",
+    "forgotPassword": "Ĉu vi forgesis vian pasvorton?",
+    "emailHint": "retpoŝto",
+    "passwordHint": "Pasvorto",
+    "dontHaveAnAccount": "Ĉu vi ne havas konton?",
+    "repeatPasswordEmptyError": "La ripeta pasvorto ne povas esti malplena",
+    "unmatchedPasswordError": "La ripeta pasvorto ne kongruas kun la ĉefa pasvorto",
+    "syncPromptMessage": "La sinkronigado de la datumoj eble daŭros iomete. Bonvolu ne fermi ĉi tiun paĝon.",
+    "or": "aû"
   }
 }
