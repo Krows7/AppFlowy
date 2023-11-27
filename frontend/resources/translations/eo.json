@@ -23,6 +23,10 @@
     "emptyPasswordError": "La pasvorto ne povas esti malplena",
     "repeatPasswordEmptyError": "Repeat password can't be empty",
     "unmatchedPasswordError": "La ripeta pasvorto ne kongruas kun la ĉefa pasvorto",
-    "alreadyHaveAnAccount": "Ĉu vi jam havas konton?"
+    "alreadyHaveAnAccount": "Ĉu vi jam havas konton?",
+    "emailHint": "retadreso",
+    "passwordHint": "Pas",
+    "repeatPasswordHint": "Ripetu la pasvorton",
+    "signUpWith": "Registriĝu per:"
   }
 }
